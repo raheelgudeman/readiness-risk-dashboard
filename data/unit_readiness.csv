@@ -1,0 +1,6 @@
+unit,personnel_assigned,personnel_available,vehicles_assigned,vehicles_operational,training_completion
+Alpha,120,108,40,34,0.90
+Bravo,100,85,35,28,0.82
+Charlie,95,88,30,26,0.85
+Delta,110,92,38,30,0.78
+Echo,105,98,36,33,0.92
